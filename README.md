@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 Do checkout my Portfolio website to know more about my relevant projects and expertise! : https://stately-sprite-a1bd0e.netlify.app
-
+- 👨‍💻 Do checkout my Portfolio website to know more about my relevant projects and expertise! : https://portfolio-website-buua1fq82-manasvipant09.vercel.app
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **manasvipant@gmail.com**
